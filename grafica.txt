@@ -1,0 +1,13 @@
+A
+B
+C
+D
+E
+AB 1
+AC 4
+BC 3
+BD 2
+BE 2
+CD 5
+DE 1
+EA 1
