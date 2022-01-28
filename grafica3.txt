@@ -1,0 +1,15 @@
+A
+B
+C
+D
+E
+F
+AB 6
+AC 4
+AD 5
+BE -1
+CB -2
+DC -2
+DF -1
+CE 3
+EF 3
